@@ -1,2 +1,2 @@
 # updated-demo-labs
-thsi is my basic lab I used for cloud week
+This is my basic lab I used for cloud week
